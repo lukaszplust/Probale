@@ -1,0 +1,9 @@
+Czy metody iteracyjne zbiegają się?
+
+odp: Nie metody iteracyjne nie zbiegają się. Pętle się nie kończą.
+
+Jaka jest norma błędu rezydualnego dla każdego sposobu rozwiązania równania macierzowego?
+
+Jacobi -> 9.9126e-15
+
+Gauss - Seidel -> 8.2735e-15

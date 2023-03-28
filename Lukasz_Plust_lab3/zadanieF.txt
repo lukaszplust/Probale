@@ -1,0 +1,5 @@
+a) Która z trzech zbadanych metod okazała się najszybsza? 
+odp: Najszybsza okazała się metoda Gaussa - Seidla. Czas wyniósł: 0.1407 [s]
+
+b) Która metoda iteracyjna potrzebuje mniejszej liczby iteracji, żeby zbiec się do prawidłowego wyniku? 
+odp: Metoda Gaussa _ Seidla potrzebuję mniejszej liczby iteracji. Jej ilość to 113.
